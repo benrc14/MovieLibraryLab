@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{6D5807B0-A6DF-4324-A4CE-AFD0A9CFBECC}|Default">
+  <MonoDevelop.Ide.ItemProperties.FilmLibrary PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FilmLibrary/Views/Home/Delete.cshtml">
+    <Files>
+      <File FileName="FilmLibrary/Controllers/HomeController.cs" Line="51" Column="19" />
+      <File FileName="FilmLibrary/Views/Home/MovieList.cshtml" Line="37" Column="91" />
+      <File FileName="FilmLibrary/Views/Home/MovieSubmission.cshtml" Line="54" Column="41" />
+      <File FileName="FilmLibrary/Models/ApplicationResponse.cs" Line="15" Column="8" />
+      <File FileName="FilmLibrary/Models/Category.cs" Line="5" Column="2" />
+      <File FileName="FilmLibrary/Models/context.cs" Line="7" Column="6" />
+      <File FileName="FilmLibrary/Views/Home/Delete.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FilmLibrary" expanded="True">
+            <Node name="FilmLibrary" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Delete.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
